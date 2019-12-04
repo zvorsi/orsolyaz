@@ -1,0 +1,44 @@
+h1{
+    font-size: 40px;
+   }
+
+.fontFamily{
+    font-family: "Baskervville"; 
+}
+h2{
+    color: #ff0099;
+   }
+
+h3{
+    
+}
+
+.center{
+    text-align: center;
+}
+
+.margin{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+a{
+    color: #ff0099;
+}
+
+dd{
+    margin-bottom: 25px; 
+}
+
+p{
+    font-family: "courier";
+}
+
+header{
+    padding: 20px;
+    background-color: #333333;
+    text-transform: uppercase;
+    text-align: right;
+    font-family: "Arial";
+    font-size: 11px;
+}
